@@ -39,5 +39,5 @@ Click Run App to launch the dashboard locally
 ![image](https://github.com/user-attachments/assets/12571b03-690c-469d-986a-ad86d1e5c9c9)
 
 🚀 Live Demo
-https://sanjanaahello.shinyapps.io/FinalApp/
+https://sanjanaahello.shinyapps.io/ShopSphereA/
 
