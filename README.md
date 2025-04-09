@@ -23,12 +23,12 @@ dplyr and tidyr for data manipulation
 📂 How to Run
 Clone the repository
 
-Open app.R in RStudio
+Open second.R in RStudio
 
 Click Run App to launch the dashboard locally
 
 📷 Screenshots
-(Add screenshots here to showcase different parts of your dashboard)
+![Uploading image.png…]()
 
 🚀 Live Demo
-(If deployed, add your shinyapps.io or other hosting link here)
+https://sanjanaahello.shinyapps.io/FinalApp/
