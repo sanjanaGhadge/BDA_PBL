@@ -23,7 +23,7 @@ dplyr and tidyr for data manipulation
 📂 How to Run
 Clone the repository
 
-Open second.R in RStudio
+Open app.R in RStudio
 
 Click Run App to launch the dashboard locally
 
