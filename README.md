@@ -27,10 +27,17 @@ Open second.R in RStudio
 
 Click Run App to launch the dashboard locally
 
+## Overview of the ShopSphere Interface
+
+#### Welcome screen of the ShopSphere app introducing the project and its creators.
+![Home](https://github.com/user-attachments/assets/2a996c13-310a-43d3-acd3-6b5cfd99022c)
+
+#### A colorful pie chart showing the most popular colors in the marketing insights section of ShopSphere.
+![WhatsApp Image 2025-04-09 at 11 15 00 AM](https://github.com/user-attachments/assets/c7729246-8dc5-487b-8c92-ae45dccf8d1e)
+
+#### A map displaying total purchase amounts by location in the ShopSphere Shiny app.
+![image](https://github.com/user-attachments/assets/12571b03-690c-469d-986a-ad86d1e5c9c9)
+
 🚀 Live Demo
 https://sanjanaahello.shinyapps.io/FinalApp/
-
-🖼️ Photos
-
-![BDA pbl photo](https://github.com/user-attachments/assets/a083a470-1be9-48cc-9859-ae841e5a24a4)
 
