@@ -6,8 +6,6 @@ library(readr)
 library(leaflet)
 library(DT)
 
-
-
 # Load Dataset
 shop <- read_csv('shopping_trends_updated.csv', show_col_types = FALSE)
 
