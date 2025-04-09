@@ -27,8 +27,5 @@ Open second.R in RStudio
 
 Click Run App to launch the dashboard locally
 
-📷 Screenshots
-![Uploading image.png…]()
-
 🚀 Live Demo
 https://sanjanaahello.shinyapps.io/FinalApp/
