@@ -191,8 +191,7 @@ ui <- dashboardPage(
       
       
 ),
-    
-    
+        
     
     tabItems(
       tabItem(tabName = "welcome",
@@ -236,7 +235,6 @@ ui <- dashboardPage(
                 )
               )
       ),
-      
       
       
       
