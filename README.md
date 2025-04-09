@@ -30,6 +30,6 @@ Click Run App to launch the dashboard locally
 🚀 Live Demo
 https://sanjanaahello.shinyapps.io/FinalApp/
 
-
+🖼️ Photos
 ![BDA pbl photo](https://github.com/user-attachments/assets/a083a470-1be9-48cc-9859-ae841e5a24a4)
 
